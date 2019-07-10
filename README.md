@@ -5,6 +5,7 @@ Welcome to my practice GitHub repo. I'm using this to learn how to host, source-
 ## What you can find here
 
 **Thesis statement guide**: Working on a research paper? Check out this resource for help crafting a clear thesis statement.
+**Powerpoint on résumé writing**: Working on a résumé? Check out the powerpoint for help writing and learning about résumés. 
 
 ## How you can get in touch
 
